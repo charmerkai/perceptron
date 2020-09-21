@@ -1,0 +1,13 @@
+Before simulation, the iverilog tool is recommended to install
+
+##Descripotion
+
+This is the verilog source code of 2-dimension perceptron
+
+The top structure can be seen in top.png
+
+The simulation testbench is PER_top.v, you can simulate the whole design with any simulator(remember to modeify the makefile!!!)
+
+All the data is saved in *.txt at the begining.
+
+

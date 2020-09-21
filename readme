@@ -1,9 +1,0 @@
-this is the verilog source code of 2-dimension perceptron
-
-the top structure can be seen in top.png
-
-the simulation testbench is PER_top.v, you can simulate the whole design with any simulator
-
-all the data is saved in *.txt at the begining.
-
-the simulation has been done using iverilog and output wave file is PER.vcd
